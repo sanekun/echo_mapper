@@ -1,0 +1,490 @@
+Sample ID,Source Plate,Source Well,Destination Plate,Destination Well,Volume
+Mixture,Goldengate mixture,N4,1,A1,1500
+Mixture,Goldengate mixture,N4,1,A2,1500
+Mixture,Goldengate mixture,N4,1,A3,1500
+Mixture,Goldengate mixture,N4,1,A4,1500
+Mixture,Goldengate mixture,N4,1,A5,1500
+Mixture,Goldengate mixture,N4,1,A6,1500
+Mixture,Goldengate mixture,N4,1,B1,3000
+Mixture,Goldengate mixture,N4,1,B2,3000
+Mixture,Goldengate mixture,N4,1,B3,3000
+Mixture,Goldengate mixture,N5,1,B4,3000
+Mixture,Goldengate mixture,N5,1,B5,3000
+Mixture,Goldengate mixture,N5,1,B6,3000
+Mixture,Goldengate mixture,N5,1,C1,300
+Mixture,Goldengate mixture,N5,1,C2,300
+Mixture,Goldengate mixture,N5,1,C3,300
+Mixture,Goldengate mixture,N6,1,C4,450
+Mixture,Goldengate mixture,N6,1,C5,450
+Mixture,Goldengate mixture,N6,1,C6,450
+Mixture,Goldengate mixture,N7,1,C7,600
+Mixture,Goldengate mixture,N7,1,C8,600
+Mixture,Goldengate mixture,N7,1,C9,600
+Mixture,Goldengate mixture,N5,1,C10,300
+Mixture,Goldengate mixture,N5,1,C11,300
+Mixture,Goldengate mixture,N5,1,C12,300
+Mixture,Goldengate mixture,N5,1,D1,300
+Mixture,Goldengate mixture,N5,1,D2,300
+Mixture,Goldengate mixture,N5,1,D3,300
+Mixture,Goldengate mixture,N6,1,D4,450
+Mixture,Goldengate mixture,N6,1,D5,450
+Mixture,Goldengate mixture,N6,1,D6,450
+Mixture,Goldengate mixture,N7,1,D7,600
+Mixture,Goldengate mixture,N7,1,D8,600
+Mixture,Goldengate mixture,N7,1,D9,600
+Mixture,Goldengate mixture,N5,1,D10,300
+Mixture,Goldengate mixture,N5,1,D11,300
+Mixture,Goldengate mixture,N5,1,D12,300
+Mixture,Goldengate mixture,N5,1,F1,300
+Mixture,Goldengate mixture,N5,1,F2,300
+Mixture,Goldengate mixture,N5,1,F3,300
+Mixture,Goldengate mixture,N5,1,F4,300
+Mixture,Goldengate mixture,N5,1,F5,300
+Mixture,Goldengate mixture,N5,1,F6,300
+Mixture,Goldengate mixture,N5,1,F7,300
+Mixture,Goldengate mixture,N5,1,F8,300
+Mixture,Goldengate mixture,N5,1,F9,300
+Mixture,Goldengate mixture,N5,1,F10,300
+Mixture,Goldengate mixture,N5,1,F11,300
+Mixture,Goldengate mixture,N5,1,F12,300
+Mixture,Goldengate mixture,N5,1,G1,300
+Mixture,Goldengate mixture,N5,1,G2,300
+Mixture,Goldengate mixture,N5,1,G3,300
+Mixture,Goldengate mixture,N5,1,G4,300
+Mixture,Goldengate mixture,N5,1,G5,300
+Mixture,Goldengate mixture,N5,1,G6,300
+Mixture,Goldengate mixture,N5,1,G7,300
+Mixture,Goldengate mixture,N5,1,G8,300
+Mixture,Goldengate mixture,N5,1,G9,300
+Mixture,Goldengate mixture,N5,1,G10,300
+Mixture,Goldengate mixture,N5,1,G11,300
+Mixture,Goldengate mixture,N5,1,G12,300
+DW,DW,N8,1,A1,2125
+DW,DW,N8,1,A2,2125
+DW,DW,N8,1,A3,2125
+DW,DW,N8,1,A4,3000
+DW,DW,N8,1,A5,3000
+DW,DW,N8,1,A6,3000
+DW,DW,N8,1,A7,3625
+DW,DW,N8,1,A8,3625
+DW,DW,N8,1,A9,3625
+DW,DW,N9,1,A10,900
+DW,DW,N9,1,A11,900
+DW,DW,N9,1,A12,900
+DW,DW,N9,1,B1,4250
+DW,DW,N9,1,B2,4250
+DW,DW,N9,1,B3,4250
+DW,DW,N9,1,B4,3000
+DW,DW,N9,1,B5,3000
+DW,DW,N9,1,B6,3000
+DW,DW,N10,1,B4,3000
+DW,DW,N10,1,B5,3000
+DW,DW,N10,1,B6,3000
+DW,DW,N10,1,B7,3000
+DW,DW,N10,1,B8,3000
+DW,DW,N10,1,B9,3000
+DW,DW,N10,1,B7,4250
+DW,DW,N11,1,B8,4250
+DW,DW,N11,1,B9,4250
+DW,DW,N11,1,C1,425
+DW,DW,N11,1,C2,425
+DW,DW,N11,1,C3,425
+DW,DW,N11,1,C4,275
+DW,DW,N11,1,C5,275
+DW,DW,N11,1,C6,275
+DW,DW,N11,1,C7,125
+DW,DW,N11,1,C8,125
+DW,DW,N11,1,C9,125
+DW,DW,N11,1,C10,525
+DW,DW,N11,1,C11,525
+DW,DW,N11,1,C12,525
+DW,DW,N11,1,D1,600
+DW,DW,N11,1,D2,600
+DW,DW,N11,1,D3,600
+DW,DW,N11,1,D4,450
+DW,DW,N11,1,D5,450
+DW,DW,N11,1,D6,450
+DW,DW,N11,1,D7,300
+DW,DW,N11,1,D8,300
+DW,DW,N11,1,D9,300
+DW,DW,N11,1,D10,650
+DW,DW,N11,1,D11,650
+DW,DW,N11,1,D12,650
+DW,DW,N11,1,E1,725
+DW,DW,N11,1,E2,725
+DW,DW,N11,1,E3,725
+DW,DW,N11,1,E4,725
+DW,DW,N11,1,E5,725
+DW,DW,N11,1,E6,725
+DW,DW,N12,1,E7,725
+DW,DW,N12,1,E8,725
+DW,DW,N12,1,E9,725
+DW,DW,N12,1,E10,825
+DW,DW,N12,1,E11,825
+DW,DW,N12,1,E12,825
+DW,DW,N12,1,F1,150
+DW,DW,N12,1,F2,150
+DW,DW,N12,1,F3,150
+DW,DW,N12,1,F4,350
+DW,DW,N12,1,F5,350
+DW,DW,N12,1,F6,350
+DW,DW,N12,1,F7,175
+DW,DW,N12,1,F8,175
+DW,DW,N12,1,F9,175
+DW,DW,N12,1,G1,500
+DW,DW,N12,1,G2,500
+DW,DW,N12,1,G3,500
+DW,DW,N12,1,G4,600
+DW,DW,N12,1,G5,600
+DW,DW,N12,1,G6,600
+DW,DW,N12,1,G7,550
+DW,DW,N12,1,G8,550
+DW,DW,N12,1,G9,550
+DW,DW,N12,1,G10,500
+DW,DW,N12,1,G11,500
+DW,DW,N12,1,G12,500
+DW,DW,N12,1,H1,450
+DW,DW,N12,1,H2,450
+DW,DW,N12,1,H3,450
+DW,DW,N12,1,H4,650
+DW,DW,N12,1,H5,650
+DW,DW,N12,1,H6,650
+DW,DW,N12,1,H7,475
+DW,DW,N12,1,H8,475
+DW,DW,N12,1,H9,475
+DW,DW,N12,1,H10,300
+DW,DW,N12,1,H11,300
+DW,DW,N12,1,H12,300
+Promoter,BBa_J23114,N14,1,A1,125
+Promoter,BBa_J23114,N14,1,A2,125
+Promoter,BBa_J23114,N14,1,A3,125
+Promoter,BBa_J23114,N14,1,A7,125
+Promoter,BBa_J23114,N14,1,A8,125
+Promoter,BBa_J23114,N14,1,A9,125
+Promoter,BBa_J23114,N14,1,B1,250
+Promoter,BBa_J23114,N14,1,B2,250
+Promoter,BBa_J23114,N14,1,B3,250
+Promoter,BBa_J23114,N14,1,B7,250
+Promoter,BBa_J23114,N14,1,B8,250
+Promoter,BBa_J23114,N14,1,B9,250
+Promoter,BBa_J23114,N14,1,C1,25
+Promoter,BBa_J23114,N14,1,C2,25
+Promoter,BBa_J23114,N14,1,C3,25
+Promoter,BBa_J23114,N14,1,C4,25
+Promoter,BBa_J23114,N14,1,C5,25
+Promoter,BBa_J23114,N14,1,C6,25
+Promoter,BBa_J23114,N14,1,C7,25
+Promoter,BBa_J23114,N14,1,C8,25
+Promoter,BBa_J23114,N14,1,C9,25
+Promoter,BBa_J23114,N14,1,C10,25
+Promoter,BBa_J23114,N14,1,C11,25
+Promoter,BBa_J23114,N14,1,C12,25
+Promoter,BBa_J23114,N14,1,E1,25
+Promoter,BBa_J23114,N14,1,E2,25
+Promoter,BBa_J23114,N14,1,E3,25
+Promoter,BBa_J23114,N14,1,E4,25
+Promoter,BBa_J23114,N14,1,E5,25
+Promoter,BBa_J23114,N14,1,E6,25
+Promoter,BBa_J23114,N14,1,E7,25
+Promoter,BBa_J23114,N14,1,E8,25
+Promoter,BBa_J23114,N14,1,E9,25
+Promoter,BBa_J23114,N14,1,E10,25
+Promoter,BBa_J23114,N14,1,E11,25
+Promoter,BBa_J23114,N14,1,E12,25
+Promoter,BBa_J23114,N14,1,F1,50
+Promoter,BBa_J23114,N14,1,F2,50
+Promoter,BBa_J23114,N14,1,F3,50
+Promoter,BBa_J23114,N14,1,F4,50
+Promoter,BBa_J23114,N14,1,F5,50
+Promoter,BBa_J23114,N14,1,F6,50
+Promoter,BBa_J23114,N14,1,F7,75
+Promoter,BBa_J23114,N14,1,F8,75
+Promoter,BBa_J23114,N14,1,F9,75
+Promoter,BBa_J23114,N14,1,F10,100
+Promoter,BBa_J23114,N14,1,F11,100
+Promoter,BBa_J23114,N14,1,F12,100
+Promoter,BBa_J23114,N14,1,H1,50
+Promoter,BBa_J23114,N14,1,H2,50
+Promoter,BBa_J23114,N14,1,H3,50
+Promoter,BBa_J23114,N14,1,H4,50
+Promoter,BBa_J23114,N14,1,H5,50
+Promoter,BBa_J23114,N14,1,H6,50
+Promoter,BBa_J23114,N14,1,H7,75
+Promoter,BBa_J23114,N14,1,H8,75
+Promoter,BBa_J23114,N14,1,H9,75
+Promoter,BBa_J23114,N14,1,H10,100
+Promoter,BBa_J23114,N14,1,H11,100
+Promoter,BBa_J23114,N14,1,H12,100
+RBS,BBa_B0034,N15,1,A1,125
+RBS,BBa_B0034,N15,1,A2,125
+RBS,BBa_B0034,N15,1,A3,125
+RBS,BBa_B0034,N15,1,A7,125
+RBS,BBa_B0034,N15,1,A8,125
+RBS,BBa_B0034,N15,1,A9,125
+RBS,BBa_B0034,N15,1,B1,250
+RBS,BBa_B0034,N15,1,B2,250
+RBS,BBa_B0034,N15,1,B3,250
+RBS,BBa_B0034,N15,1,B7,250
+RBS,BBa_B0034,N15,1,B8,250
+RBS,BBa_B0034,N15,1,B9,250
+RBS,BBa_B0034,N15,1,C1,25
+RBS,BBa_B0034,N15,1,C2,25
+RBS,BBa_B0034,N15,1,C3,25
+RBS,BBa_B0034,N15,1,C4,25
+RBS,BBa_B0034,N15,1,C5,25
+RBS,BBa_B0034,N15,1,C6,25
+RBS,BBa_B0034,N15,1,C7,25
+RBS,BBa_B0034,N15,1,C8,25
+RBS,BBa_B0034,N15,1,C9,25
+RBS,BBa_B0034,N15,1,C10,25
+RBS,BBa_B0034,N15,1,C11,25
+RBS,BBa_B0034,N15,1,C12,25
+RBS,BBa_B0034,N15,1,E1,25
+RBS,BBa_B0034,N15,1,E2,25
+RBS,BBa_B0034,N15,1,E3,25
+RBS,BBa_B0034,N15,1,E4,25
+RBS,BBa_B0034,N15,1,E5,25
+RBS,BBa_B0034,N15,1,E6,25
+RBS,BBa_B0034,N15,1,E7,25
+RBS,BBa_B0034,N15,1,E8,25
+RBS,BBa_B0034,N15,1,E9,25
+RBS,BBa_B0034,N15,1,E10,25
+RBS,BBa_B0034,N15,1,E11,25
+RBS,BBa_B0034,N15,1,E12,25
+RBS,BBa_B0034,N15,1,F1,50
+RBS,BBa_B0034,N15,1,F2,50
+RBS,BBa_B0034,N15,1,F3,50
+RBS,BBa_B0034,N15,1,F4,50
+RBS,BBa_B0034,N15,1,F5,50
+RBS,BBa_B0034,N15,1,F6,50
+RBS,BBa_B0034,N15,1,F7,75
+RBS,BBa_B0034,N15,1,F8,75
+RBS,BBa_B0034,N15,1,F9,75
+RBS,BBa_B0034,N15,1,F10,100
+RBS,BBa_B0034,N15,1,F11,100
+RBS,BBa_B0034,N15,1,F12,100
+RBS,BBa_B0034,N15,1,H1,50
+RBS,BBa_B0034,N15,1,H2,50
+RBS,BBa_B0034,N15,1,H3,50
+RBS,BBa_B0034,N15,1,H4,50
+RBS,BBa_B0034,N15,1,H5,50
+RBS,BBa_B0034,N15,1,H6,50
+RBS,BBa_B0034,N15,1,H7,75
+RBS,BBa_B0034,N15,1,H8,75
+RBS,BBa_B0034,N15,1,H9,75
+RBS,BBa_B0034,N15,1,H10,100
+RBS,BBa_B0034,N15,1,H11,100
+RBS,BBa_B0034,N15,1,H12,100
+CDS,mCherry,M18,1,A1,500
+CDS,mCherry,M18,1,A2,500
+CDS,mCherry,M18,1,A3,500
+CDS,mCherry,M18,1,A7,500
+CDS,mCherry,M18,1,A8,500
+CDS,mCherry,M18,1,A9,500
+CDS,mCherry,M18,1,B1,1000
+CDS,mCherry,M18,1,B2,1000
+CDS,mCherry,M18,1,B3,1000
+CDS,mCherry,M18,1,B7,1000
+CDS,mCherry,M18,1,B8,1000
+CDS,mCherry,M18,1,B9,1000
+CDS,mCherry,M18,1,C1,100
+CDS,mCherry,M18,1,C2,100
+CDS,mCherry,M18,1,C3,100
+CDS,mCherry,M18,1,C4,100
+CDS,mCherry,M18,1,C5,100
+CDS,mCherry,M18,1,C6,100
+CDS,mCherry,M18,1,C7,100
+CDS,mCherry,M18,1,C8,100
+CDS,mCherry,M18,1,C9,100
+CDS,mCherry,N16,1,C10,50
+CDS,mCherry,N16,1,C11,50
+CDS,mCherry,N16,1,C12,50
+CDS,mCherry,M18,1,E1,100
+CDS,mCherry,M18,1,E2,100
+CDS,mCherry,M18,1,E3,100
+CDS,mCherry,M18,1,E4,100
+CDS,mCherry,M18,1,E5,100
+CDS,mCherry,M18,1,E6,100
+CDS,mCherry,M18,1,E7,100
+CDS,mCherry,M18,1,E8,100
+CDS,mCherry,M18,1,E9,100
+CDS,mCherry,N16,1,E10,50
+CDS,mCherry,N16,1,E11,50
+CDS,mCherry,N16,1,E12,50
+CDS,mCherry,M18,1,F1,200
+CDS,mCherry,M18,1,F2,200
+CDS,mCherry,M18,1,F3,200
+CDS,mCherry,N16,1,F4,100
+CDS,mCherry,N16,1,F5,100
+CDS,mCherry,N16,1,F6,100
+CDS,mCherry,N16,1,F7,150
+CDS,mCherry,N16,1,F8,150
+CDS,mCherry,N16,1,F9,150
+CDS,mCherry,N16,1,F10,200
+CDS,mCherry,N16,1,F11,200
+CDS,mCherry,N16,1,F12,200
+CDS,mCherry,M18,1,H1,200
+CDS,mCherry,M18,1,H2,200
+CDS,mCherry,M18,1,H3,200
+CDS,mCherry,N16,1,H4,100
+CDS,mCherry,N16,1,H5,100
+CDS,mCherry,N16,1,H6,100
+CDS,mCherry,N16,1,H7,150
+CDS,mCherry,N16,1,H8,150
+CDS,mCherry,N16,1,H9,150
+CDS,mCherry,N16,1,H10,200
+CDS,mCherry,N16,1,H11,200
+CDS,mCherry,N16,1,H12,200
+Terminator,B1T,N17,1,A1,125
+Terminator,B1T,N17,1,A2,125
+Terminator,B1T,N17,1,A3,125
+Terminator,B1T,N17,1,A7,125
+Terminator,B1T,N17,1,A8,125
+Terminator,B1T,N17,1,A9,125
+Terminator,B1T,N17,1,B1,250
+Terminator,B1T,N17,1,B2,250
+Terminator,B1T,N17,1,B3,250
+Terminator,B1T,N17,1,B7,250
+Terminator,B1T,N17,1,B8,250
+Terminator,B1T,N17,1,B9,250
+Terminator,B1T,N17,1,C1,25
+Terminator,B1T,N17,1,C2,25
+Terminator,B1T,N17,1,C3,25
+Terminator,B1T,N17,1,C4,25
+Terminator,B1T,N17,1,C5,25
+Terminator,B1T,N17,1,C6,25
+Terminator,B1T,N17,1,C7,25
+Terminator,B1T,N17,1,C8,25
+Terminator,B1T,N17,1,C9,25
+Terminator,B1T,N17,1,C10,25
+Terminator,B1T,N17,1,C11,25
+Terminator,B1T,N17,1,C12,25
+Terminator,B1T,N17,1,E1,25
+Terminator,B1T,N17,1,E2,25
+Terminator,B1T,N17,1,E3,25
+Terminator,B1T,N17,1,E4,25
+Terminator,B1T,N17,1,E5,25
+Terminator,B1T,N17,1,E6,25
+Terminator,B1T,N17,1,E7,25
+Terminator,B1T,N17,1,E8,25
+Terminator,B1T,N17,1,E9,25
+Terminator,B1T,N17,1,E10,25
+Terminator,B1T,N17,1,E11,25
+Terminator,B1T,N17,1,E12,25
+Terminator,B1T,N17,1,F1,50
+Terminator,B1T,N17,1,F2,50
+Terminator,B1T,N17,1,F3,50
+Terminator,B1T,N17,1,F4,50
+Terminator,B1T,N17,1,F5,50
+Terminator,B1T,N17,1,F6,50
+Terminator,B1T,N17,1,F7,75
+Terminator,B1T,N17,1,F8,75
+Terminator,B1T,N17,1,F9,75
+Terminator,B1T,N17,1,F10,100
+Terminator,B1T,N17,1,F11,100
+Terminator,B1T,N17,1,F12,100
+Terminator,B1T,N17,1,H1,50
+Terminator,B1T,N17,1,H2,50
+Terminator,B1T,N17,1,H3,50
+Terminator,B1T,N17,1,H4,50
+Terminator,B1T,N17,1,H5,50
+Terminator,B1T,N17,1,H6,50
+Terminator,B1T,N17,1,H7,75
+Terminator,B1T,N17,1,H8,75
+Terminator,B1T,N17,1,H9,75
+Terminator,B1T,N17,1,H10,100
+Terminator,B1T,N17,1,H11,100
+Terminator,B1T,N17,1,H12,100
+Vector,V1,M19,1,A1,500
+Vector,V5,M20,1,A2,500
+Vector,V7,M21,1,A3,500
+Vector,V1,M19,1,A4,500
+Vector,V5,M20,1,A5,500
+Vector,V7,M21,1,A6,500
+Vector,V1,M19,1,A7,500
+Vector,V5,M20,1,A8,500
+Vector,V7,M21,1,A9,500
+Vector,V1,M19,1,A10,100
+Vector,V5,M20,1,A11,100
+Vector,V7,M21,1,A12,100
+Vector,V1,M19,1,B1,1000
+Vector,V5,M20,1,B2,1000
+Vector,V7,M21,1,B3,1000
+Vector,V1,M19,1,B4,1000
+Vector,V5,M20,1,B5,1000
+Vector,V7,M21,1,B6,1000
+Vector,V1,M19,1,B7,1000
+Vector,V5,M20,1,B8,1000
+Vector,V7,M21,1,B9,1000
+Vector,V1,M19,1,C1,100
+Vector,V5,M20,1,C2,100
+Vector,V7,M21,1,C3,100
+Vector,V1,M19,1,C4,100
+Vector,V5,M20,1,C5,100
+Vector,V7,M21,1,C6,100
+Vector,V1,M19,1,C7,100
+Vector,V5,M20,1,C8,100
+Vector,V7,M21,1,C9,100
+Vector,V1,N18,1,C10,50
+Vector,V5,N19,1,C11,50
+Vector,V7,N20,1,C12,50
+Vector,V1,M19,1,D1,100
+Vector,V5,M20,1,D2,100
+Vector,V7,M21,1,D3,100
+Vector,V1,M19,1,D4,100
+Vector,V5,M20,1,D5,100
+Vector,V7,M21,1,D6,100
+Vector,V1,M19,1,D7,100
+Vector,V5,M20,1,D8,100
+Vector,V7,M21,1,D9,100
+Vector,V1,N18,1,D10,50
+Vector,V5,N19,1,D11,50
+Vector,V7,N20,1,D12,50
+Vector,V1,M19,1,E1,100
+Vector,V5,M20,1,E2,100
+Vector,V7,M21,1,E3,100
+Vector,V1,M19,1,E4,100
+Vector,V5,M20,1,E5,100
+Vector,V7,M21,1,E6,100
+Vector,V1,M19,1,E7,100
+Vector,V5,M20,1,E8,100
+Vector,V7,M21,1,E9,100
+Vector,V1,N18,1,E10,50
+Vector,V5,N19,1,E11,50
+Vector,V7,N20,1,E12,50
+Vector,V1,M19,1,F1,200
+Vector,V5,M20,1,F2,200
+Vector,V7,M21,1,F3,200
+Vector,V1,N18,1,F4,100
+Vector,V5,N19,1,F5,100
+Vector,V7,N20,1,F6,100
+Vector,V1,N18,1,F7,150
+Vector,V5,N19,1,F8,150
+Vector,V7,N20,1,F9,150
+Vector,V1,N18,1,F10,200
+Vector,V5,N19,1,F11,200
+Vector,V7,N20,1,F12,200
+Vector,V1,M19,1,G1,200
+Vector,V5,M20,1,G2,200
+Vector,V7,M21,1,G3,200
+Vector,V1,N18,1,G4,100
+Vector,V5,N19,1,G5,100
+Vector,V7,N20,1,G6,100
+Vector,V1,N18,1,G7,150
+Vector,V5,N19,1,G8,150
+Vector,V7,N20,1,G9,150
+Vector,V1,N18,1,G10,200
+Vector,V5,N19,1,G11,200
+Vector,V7,N20,1,G12,200
+Vector,V1,M19,1,H1,200
+Vector,V5,M20,1,H2,200
+Vector,V7,M21,1,H3,200
+Vector,V1,N18,1,H4,100
+Vector,V5,N19,1,H5,100
+Vector,V7,N20,1,H6,100
+Vector,V1,N18,1,H7,150
+Vector,V5,N19,1,H8,150
+Vector,V7,N20,1,H9,150
+Vector,V1,N18,1,H10,200
+Vector,V5,N19,1,H11,200
+Vector,V7,N20,1,H12,200
